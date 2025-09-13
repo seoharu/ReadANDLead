@@ -343,7 +343,6 @@ export default function Header() {
 
     { path: '/travel-diary', label: '여행 퀘스트북', icon: () => iconEl(FaBookOpen) },
 
-    { path: '/diary', label: '여행 퀘스트북', icon: () => iconEl(FaBookOpen) },
     { path: '/agency-trips', label: '관광사와 책여행 떠나기', icon: () => iconEl(FaBookOpen) },
 
     { path: '/four-cut', label: '인생네컷', icon: () => iconEl(FaImages) },
